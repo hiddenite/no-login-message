@@ -1,0 +1,5 @@
+name: NoLoginMessage
+main: eu.hiddenite.NoLoginMessagePlugin
+version: 1.0.0
+api-version: 1.14
+author: Hiddenite
